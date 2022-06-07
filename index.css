@@ -1,0 +1,63 @@
+ /* Cascading style sheet */
+    <style>
+            /* setting first paragraph details */
+            p{
+                color : White;
+                font-family: Arial, Helvetica, sans-serif;
+                background-color: grey;
+            }
+            /* setting first  h1 details */
+            h1{
+                color: wheat;
+                font-family: Algerian, Helvetica, sans-serif;
+                background-color: black;
+            }
+            /* setting image  details */
+            img { 
+                border-radius: 50%; 
+                width: 200px;
+                height: 200px;
+            }
+            /* setting first  h1 details */
+            h1{
+                color: white;
+                font-family: Arial, Helvetica, sans-serif;
+                background-color: black;
+            } /* setting second  h1 details */
+            h1{
+                color: gray;
+                font-family: Arial, Helvetica, sans-serif;
+                background-color: black; 
+            }
+            /* setting the third  h1 details */
+            h1{
+                color: white;
+                font-family: Arial, Helvetica, sans-serif;
+                background-color: black; 
+            }
+            /* setting the second h1 details */
+            h1{
+                color: gray;
+                font-family: Arial, Helvetica, sans-serif;
+                background-color: black;
+            }
+            /* setting list details */
+            ol{
+                color: white;
+                font-family: Arial, Helvetica, sans-serif;
+                background-color: black;
+            }
+            /* Capturing body details */
+            body{
+                color: grey;
+                text-decoration: dashed;
+                background-color: black;
+            }
+            /* setting last paragraph details */
+            p{
+                color : White;
+                font-family: Arial, Helvetica, sans-serif;
+                background-color: black;  
+            }
+        
+        </style>
